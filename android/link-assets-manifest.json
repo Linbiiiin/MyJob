@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/config.json",
+      "sha1": "265ce72c2f796a4591b06394f78016c461022787"
+    },
+    {
+      "path": "assets/fonts/fontello.ttf",
+      "sha1": "e5e739f9ef0f88f30c1946959fa73e96924933ef"
+    }
+  ]
+}
